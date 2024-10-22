@@ -51,7 +51,7 @@ const About = () => {
       </ul>
 
       <div>
-        <p className=" font-title font-extrabold text-2xl  mt-2">
+        <p className=" font-title font-extrabold text-2xl  mt-10">
           {" "}
           Scholarships <span className=" text-primary-0"> Types</span>
         </p>
