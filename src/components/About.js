@@ -51,6 +51,79 @@ const About = () => {
       </ul>
 
       <div>
+        <p className=" font-title font-extrabold text-2xl  mt-2">
+          {" "}
+          Scholarships <span className=" text-primary-0"> Types</span>
+        </p>
+        <ul className="  grid gap-6 mt-6">
+          <li className=" border-2 text-center pt- pb-2 border-white bg-slate-50 rounded  shadow-md rounded-md">
+            <p>
+              <span className=" font-title text-2xl font-extrabold text-black">
+                {" "}
+                <img
+                  src="/aseset/65de4e8fa9dea47849bfe182_654d5b61a2e2c9c8d6cdeae7_5f57c46384cca65e79589acf_students1.jpeg"
+                  alt=""
+                  className=" rounded-"
+                />
+              </span>
+              <p className=" font-title text-xl font-bold  text-primary-0">
+                {" "}
+                Gap Completion Scholarship
+              </p>
+              <p className=" font-sans italic">
+                {" "}
+                Sint Lorem do ea reprehenderit id dolor exercitation amet veniam
+                labore elit veniam minim.
+              </p>
+            </p>
+          </li>
+
+          <li className=" border-2 text-center pt- pb-2 border-white bg-slate-50 rounded  shadow-md rounded-md">
+            <p>
+              <span className=" font-title text-2xl font-extrabold text-black">
+                {" "}
+                <img
+                  src="/aseset/czech_University_Students.jpg"
+                  alt=""
+                  className=" rounded-"
+                />
+              </span>
+              <p className=" font-title text-xl font-bold  text-primary-0">
+                {" "}
+                Access Scholarship
+              </p>
+              <p className=" font-sans italic">
+                {" "}
+                Sint Lorem do ea reprehenderit id dolor exercitation amet veniam
+                labore elit veniam minim.
+              </p>
+            </p>
+          </li>
+          <li className=" border-2 text-center pt- pb-2 border-white bg-slate-50 rounded  shadow-md rounded-md">
+            <p>
+              <span className=" font-title text-2xl font-extrabold text-black">
+                {" "}
+                <img
+                  src="/aseset/study-mate-india-A-Roadmap-for-African-Students.jpg"
+                  alt=""
+                  className=" rounded-"
+                />
+              </span>
+              <p className=" font-title text-xl font-bold  text-primary-0">
+                {" "}
+                Programmatic Scholarship
+              </p>
+              <p className=" font-sans italic">
+                {" "}
+                Sint Lorem do ea reprehenderit id dolor exercitation amet veniam
+                labore elit veniam minim.
+              </p>
+            </p>
+          </li>
+        </ul>
+      </div>
+
+      {/* <div>
         <p className=" mt-6 font-title text-2xl font-extrabold">Requirements</p>
         <ul className=" ">
           <li> Do culpa commodo ex .</li>
@@ -60,10 +133,10 @@ const About = () => {
           <li> Do culpa commodo ex .</li>
           <li> Do culpa commodo ex .</li>
         </ul>
-      </div>
+      </div> */}
 
       <hr className=" mt-6  mb-3"></hr>
-      <div className=" flex gap-24">
+      <div className=" flex gap-11">
         <p className=" font-extrabold text-2xl  ml-4  font-title mb-3">
           SUPPORT.
         </p>
